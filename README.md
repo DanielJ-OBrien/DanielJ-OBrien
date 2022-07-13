@@ -1,4 +1,4 @@
-Know python and c#, not current projects.
+Know python and c#, no current projects.
 
 Starting to look at webdev.
 
