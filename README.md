@@ -1,5 +1,3 @@
-Know python and c#, no current projects.
-
-Starting to look at webdev.
+Experience with C/#/++, Python, HTML/CSS/JS
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DanielJ-OBrien&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
